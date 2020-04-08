@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/rowel0910/Test/_apis/build/status/rowelgutierrez.pipelines-javascript?branchName=master)](https://dev.azure.com/rowel0910/Test/_build/latest?definitionId=1&branchName=master)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
